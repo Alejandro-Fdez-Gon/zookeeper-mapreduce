@@ -1,1 +1,1 @@
-# zookeeper-mapreduce
+# Zookeeper - Map Reduce
