@@ -6,7 +6,8 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
-import es.upm.dit.cnvr_fcon.FASTA_interface.ResultadoInterface;
+
+import FASTA_interface.ResultadoInterface;
 
 public class Resultado implements ResultadoInterface, Serializable {
 	
