@@ -20,12 +20,12 @@ import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.ZooKeeper;
 import org.apache.zookeeper.data.Stat;
 
-import es.upm.dit.cnvr_fcon.FASTA_aux.Busqueda;
-import es.upm.dit.cnvr_fcon.FASTA_aux.FASTABuscar;
-import es.upm.dit.cnvr_fcon.FASTA_aux.Resultado;
+import FASTA_aux.Busqueda;
+import FASTA_aux.FASTABuscar;
+import FASTA_aux.Resultado;
 
-import es.upm.dit.cnvr_fcon.ZK.CreateSession;
-import es.upm.dit.cnvr_fcon.ZK.CreateZNode;
+import ZK.CreateSession;
+import ZK.CreateZNode;
 
 public class FASTAProcess implements Watcher {
 
