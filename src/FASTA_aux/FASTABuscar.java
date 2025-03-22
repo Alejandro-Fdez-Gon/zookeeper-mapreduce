@@ -2,7 +2,7 @@ package es.upm.dit.cnvr_fcon.FASTA_aux;
 
 import java.util.ArrayList;
 
-import es.upm.dit.cnvr_fcon.FASTA_interface.LectorFASTAInterface;
+import FASTA_interface.LectorFASTAInterface;
 
 public class FASTABuscar implements LectorFASTAInterface {
 
