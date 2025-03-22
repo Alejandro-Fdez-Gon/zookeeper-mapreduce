@@ -6,8 +6,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-import es.upm.dit.cnvr_fcon.FASTA_aux.Busqueda;
-import es.upm.dit.cnvr_fcon.FASTA_aux.BytesLeidos;
+import FASTA_aux.Busqueda;
+import FASTA_aux.BytesLeidos;
 
 public class FASTALeerFichero {
 	
